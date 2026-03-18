@@ -13,7 +13,8 @@ This project analyzes Netflix data to uncover trends in content, genres, and use
 - Viewer preferences
 
 ## 📸 Dashboard Preview
-(Add screenshot here)
+
+![Dashboard](dashboard.png)
 
 ## 🚀 Conclusion
 This dashboard helps understand content performance and supports decision-making.
